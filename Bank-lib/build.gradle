@@ -1,0 +1,9 @@
+plugins {
+    id 'java-library'
+}
+
+group 'br.edu.ifal.aluno.esther.bank'
+version '1.0'
+
+targetCompatibility = '11'
+sourceCompatibility = '11'
